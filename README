@@ -1,13 +1,16 @@
 # sudoku
 
-FIXME: write description
+This is an automated sudoku solver. It works well,
+although the GUI doesn't highlight the divisions between the
+nine boxes well enough.
 
 ## Usage
 
-FIXME: write
+You can create an runnable jar file with:
+>> lein uberjar
 
 ## License
 
-Copyright (C) 2010 FIXME
+Copyright (C) 2012
 
 Distributed under the Eclipse Public License, the same as Clojure.
